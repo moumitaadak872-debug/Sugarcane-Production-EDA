@@ -37,7 +37,7 @@ The dataset includes agricultural information such as:
 File Format: CSV
 
 ---
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -50,7 +50,7 @@ File Format: CSV
 
 ---
 
-🔎 Exploratory Data Analysis
+## 🔎 Exploratory Data Analysis
 
 The notebook investigates questions such as:
 
