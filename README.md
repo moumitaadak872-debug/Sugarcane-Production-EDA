@@ -108,7 +108,7 @@ Sugarcane-Analysis/
 
 ---
 
-▶️ Getting Started
+## ▶️ Getting Started
 
 Clone the repository
 
@@ -138,7 +138,7 @@ Open Sugarcane_Analysis.ipynb and run all the cells.
 
 ---
 
-📈 Sample Workflow
+## 📈 Sample Workflow
 
 ```
 Dataset
@@ -158,7 +158,7 @@ Insights & Conclusions
 
 ---
 
-🎓 Learning Outcomes
+## 🎓 Learning Outcomes
 
 Through this project, I practiced:
 
@@ -171,7 +171,7 @@ Through this project, I practiced:
 
 ---
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 - Build an interactive dashboard using Power BI
 - Create predictive models using Machine Learning
